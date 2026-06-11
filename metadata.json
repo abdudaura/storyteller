@@ -1,0 +1,6 @@
+{
+  "name": "Fireside Storyteller",
+  "description": "An interactive, cozy family storytelling companion powered by Gemini AI, featuring heartwarming sibling banter, generational baking secrets, heart-to-heart lessons, and procedural reading-room soundscapes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
